@@ -1,4 +1,4 @@
 V1.0||2016-10-26||Offical release||https://github.com/zhenatgstdev/Cin/raw/master/ssv_logo_little.zip;
 V1.1||2016-10-30||Pre-release with slider control, pan & tilt control||https://github.com/zhenatgstdev/Cin/raw/master/ssv_logo_little.zip;
 V1.2||2016-11-12||Pre-release with create keyframes,improved the UI for camera.Added the cmd log function and UI,Improved the function of start cmd.||https://github.com/zhenatgstdev/Cin/raw/master/ssv_logo_little.zip;
-V2.1||2016-11-15||Added the new drive function.||https://github.com/zhenatgstdev/Cin/blob/master/BUILT_MENU.ino.arduino_due_x.bin?raw=true
+V2.1||2016-11-15||Added the new drive function.||https://raw.githubusercontent.com/zhenatgstdev/Cin/master/BUILT_MENU.ino.arduino_due_x.bin
